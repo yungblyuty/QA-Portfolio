@@ -187,21 +187,6 @@ The issue was identified and fixed before release.
 
 ---
 
-## Progression Balance Issue
-
-### Description
-A configuration issue in progression rewards allowed players to progress significantly faster than intended progression pacing.
-
-### Risks
-- economy destabilization
-- reduced player engagement
-- monetization devaluation
-
-### Result
-The issue was identified during exploratory testing and resolved before release.
-
----
-
 ## UI Conflict Affecting Monetization
 
 ### Description
