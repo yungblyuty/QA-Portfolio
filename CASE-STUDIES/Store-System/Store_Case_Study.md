@@ -250,4 +250,13 @@ The combination of exploratory and risk-based testing significantly improved rel
 # Test Plan
 [TP-003](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=945417199#gid=945417199&range=A5:K5)
 
+---
 
+# Test Cases
+[TC-TP003](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=1694348965#gid=1694348965&range=A19:M26)
+
+---
+
+# Bug Reports
+
+[BUG_003](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=0#gid=0&range=A12:T20)
