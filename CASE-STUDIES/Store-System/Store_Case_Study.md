@@ -244,3 +244,10 @@ The testing process helped prevent critical production issues affecting:
 - overall user experience
 
 The combination of exploratory and risk-based testing significantly improved release stability and reduced production risks before deployment.
+
+---
+
+# Test Plan
+[TP-003](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=945417199#gid=945417199&range=A5:K5)
+
+
