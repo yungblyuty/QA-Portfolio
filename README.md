@@ -201,5 +201,5 @@ I am particularly interested in combining:
 
 # Contact
 
-- LinkedIn: https://www.linkedin.com/in/yulia-yungblyut/
+- LinkedIn: [Yungblyut Yulia](https://www.linkedin.com/in/yulia-yungblyut/)
 - Location: Bulgaria
