@@ -314,3 +314,18 @@ Testing activities helped prevent critical issues affecting:
 The combination of exploratory and risk-based testing significantly improved release quality and reduced production risks before the event launch.
 
 ---
+
+# Test Plan
+[TP-004](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=945417199#gid=945417199&range=A6:K6)
+
+---
+
+# Test Cases
+[TC-TP004](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=1694348965#gid=1694348965&range=A28:M37)
+
+---
+
+# Bug Reports
+
+[BUG_004](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=0#gid=0&range=A19:T26)
+
