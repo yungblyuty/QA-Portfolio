@@ -1,285 +1,291 @@
 # QA Portfolio
 
-Hi! I am a Mobile Game QA Engineer focused on product quality, risk analysis, and improving testing processes.
+Привет! Я — Mobile Game QA Engineer с фокусом на качество продукта, анализ рисков и улучшение процессов тестирования.
 
-My experience includes:
+Мой опыт включает:
 
-- exploratory testing
-- risk-based testing
-- mobile game testing
-- monetization systems testing
-- live event validation
-- progression and game balance testing
-- analytics validation
-- release risk analysis
-- QA process improvement
+- исследовательское тестирование
+- риск-ориентированное тестирование
+- тестирование мобильных игр
+- тестирование систем монетизации
+- проверку игровых событий
+- тестирование систем прогрессии и игрового баланса
+- проверку аналитики
+- анализ рисков перед релизом
+- улучшение QA-процессов
 
-Currently growing towards QA Automation Engineering.
-
----
-
-# About This Portfolio
-
-This repository contains examples of my QA work focused on mobile game systems and product quality.
-
-The main goal of this portfolio is to demonstrate my approach to:
-
-- understanding feature requirements
-- identifying product and technical risks
-- creating testing strategies
-- designing effective test coverage
-- investigating complex issues
-- validating analytics reliability
-- evaluating impact on users and product
-- improving QA processes
-
-The documentation is organized around complete QA Case Studies rather than separate testing artifacts.
-
-Each Case Study represents a full testing workflow from analysis to final quality assessment.
+Сейчас я развиваюсь в направлении QA Automation Engineering.
 
 ---
 
-# Portfolio Structure
+# О портфолио
+
+Этот репозиторий содержит примеры моей работы в области обеспечения качества мобильных игр.
+
+Основная цель портфолио — показать мой подход к:
+
+- анализу функциональности
+- выявлению продуктовых и технических рисков
+- построению стратегии тестирования
+- проектированию эффективного тестового покрытия
+- исследованию сложных проблем
+- проверке корректности аналитики
+- оценке влияния дефектов на пользователя и продукт
+- улучшению процессов тестирования
+
+Документация организована вокруг полноценных QA Case Studies, а не отдельных тестовых документов.
+
+Каждый Case Study демонстрирует полный процесс тестирования:
+от анализа функциональности до оценки качества перед релизом.
+
+---
+
+# Структура портфолио
 
 ## Case Studies
 
-End-to-end QA investigations of mobile game systems.
+Комплексные исследования тестирования игровых систем.
 
-Each Case Study includes:
+Каждый Case Study включает:
 
-- Feature Overview
-- Testing Objectives
-- Risk Analysis
-- Testing Strategy
-- Test Design Approach
-- Exploratory Testing
-- Analytics Validation (where applicable)
-- Critical Issues Identified
-- Cross-Team Collaboration
-- Results & Impact
+- обзор функциональности
+- цели тестирования
+- анализ рисков
+- стратегию тестирования
+- подход к тест-дизайну
+- исследовательское тестирование
+- проверку аналитики (если применимо)
+- выявленные критические проблемы
+- взаимодействие с командой
+- результат и влияние на качество продукта
 
-Related QA documentation is included inside each Case Study:
+Связанная QA-документация внутри каждого Case Study:
 
-- Test Plan
-- Test Cases
-- Bug Reports
-- Exploratory Testing Report
-- Analytics Validation Report (where applicable)
+- тест-план
+- тест-кейсы
+- баг-репорты
+- отчёт по исследовательскому тестированию
+- отчёт по проверке аналитики (если применимо)
 
-Test Plans, Test Cases, and Bug Reports are provided as Excel documents linked to their corresponding Case Study.
+Тест-планы, тест-кейсы и баг-репорты оформлены отдельными Excel-документами и связаны с соответствующим Case Study.
 
 ---
 
-# Included Case Studies
+# Представленные Case Studies
+
+---
 
 ## In-Game Store & Monetization Systems
 
-Testing of an in-game store, purchase flows, and monetization-related systems.
+Тестирование внутриигрового магазина, процесса покупок и систем монетизации.
 
-Testing focus:
+Основные области тестирования:
 
-- purchase flow stability
-- reward delivery validation
-- offer logic verification
-- monetization user experience
-- edge-case scenarios
-- analytics reliability
-- release risks
+- стабильность процесса покупки
+- корректность выдачи наград
+- проверка логики специальных предложений
+- пользовательский опыт при взаимодействии с магазином
+- нестандартные пользовательские сценарии
+- корректность аналитики
+- риски перед релизом
 
-Main goals:
+Основные цели:
 
-- prevent monetization blockers
-- protect player experience
-- ensure correct reward delivery
-- reduce production risks
+- предотвратить критические проблемы монетизации
+- защитить пользовательский опыт
+- обеспечить корректную выдачу игровых ресурсов
+- снизить риски перед выпуском функциональности
 
-Documentation includes:
+Документация включает:
 
 - Case Study
-- Test Plan
-- Test Cases
-- Bug Reports
-- Exploratory Testing Report
+- тест-план
+- тест-кейсы
+- баг-репорты
+- отчёт исследовательского тестирования
 
 ---
 
 ## Live Event & Progression Systems
 
-Testing of a limited-time resource collection event and progression systems.
+Тестирование ограниченного по времени игрового события и систем прогрессии.
 
-Testing focus:
+Основные области тестирования:
 
-- event mechanics validation
-- progression flow
-- reward systems
-- balance validation
-- replay scenarios
-- analytics tracking
-- edge-case behavior
+- механики игровых событий
+- процесс прогрессии игрока
+- системы наград
+- баланс игровой экономики
+- сценарии повторного прохождения
+- отслеживание аналитики
+- нестандартные сценарии поведения
 
-Main goals:
+Основные цели:
 
-- ensure stable event experience
-- prevent progression exploits
-- validate reward economy
-- ensure analytics accuracy
+- обеспечить стабильную работу игровых событий
+- предотвратить нарушения системы прогрессии
+- проверить баланс наград
+- обеспечить корректность аналитических данных
 
-Documentation includes:
+Документация включает:
 
 - Case Study
-- Test Plan
-- Test Cases
-- Bug Reports
-- Exploratory Testing Report
-- Analytics Validation Report
+- тест-план
+- тест-кейсы
+- баг-репорты
+- отчёт исследовательского тестирования
+- отчёт проверки аналитики
 
 ---
 
-# Exploratory Testing Approach
+# Подход к исследовательскому тестированию
 
-Exploratory testing is included as part of Case Studies.
+Исследовательское тестирование является частью каждого Case Study.
 
-Focus areas:
+Основной фокус:
 
-- unknown risk discovery
-- complex user scenarios
-- boundary conditions
-- system interactions
-- unexpected user behavior
-- hidden product risks
+- поиск неизвестных рисков
+- сложные пользовательские сценарии
+- проверка граничных условий
+- взаимодействие нескольких систем
+- нестандартное поведение пользователя
+- скрытые продуктовые риски
 
-The goal is not only to find defects, but also to identify potential impact on:
+Цель исследовательского тестирования — не только поиск дефектов, но и определение возможного влияния проблем на:
 
-- user experience
-- monetization
-- progression balance
-- release quality
-
----
-
-# Analytics Validation
-
-Analytics validation examples demonstrate testing of:
-
-- event tracking correctness
-- payload validation
-- missing events
-- duplicated events
-- event sequence consistency
-- progression analytics accuracy
-
-The purpose is to ensure reliable product data for decision-making.
+- пользовательский опыт
+- монетизацию
+- баланс прогрессии
+- качество релиза
 
 ---
 
-# Process Improvement
+# Проверка аналитики
 
-This section demonstrates QA process improvement initiatives.
+Раздел демонстрирует мой подход к проверке аналитических систем.
 
-Focus areas:
+Основные направления:
 
-- improving collaboration between QA and development teams
-- optimizing feedback loops
-- improving defect validation process
-- supporting faster issue resolution
-- improving release preparation workflow
+- проверка отправки аналитических событий
+- проверка корректности данных
+- поиск отсутствующих событий
+- поиск дублирующихся событий
+- проверка последовательности событий
+- проверка аналитики прогрессии
+
+Цель проверки аналитики — обеспечить достоверность продуктовых данных для принятия решений.
 
 ---
 
-# Key QA Skills
+# Улучшение QA-процессов
 
-## Product & Risk-Oriented Testing
+Раздел демонстрирует инициативы по оптимизации процессов тестирования.
 
-- Risk-Based Testing
-- Exploratory Testing
-- Release Risk Assessment
-- Product Risk Analysis
-- Quality Impact Evaluation
+Основные направления:
+
+- улучшение взаимодействия между QA и разработкой
+- сокращение цикла обратной связи
+- улучшение процесса проверки исправлений
+- ускорение решения проблем
+- повышение качества подготовки релизов
+
+---
+
+# Основные QA навыки
+
+## Продуктовое и риск-ориентированное тестирование
+
+- риск-ориентированное тестирование
+- исследовательское тестирование
+- оценка рисков релиза
+- анализ влияния проблем на продукт
+- оценка качества функциональности
 
 ---
 
 ## Mobile Game QA
 
-- Monetization Testing
-- Live Event Testing
-- Progression Testing
-- Reward Systems Testing
-- Economy Balance Validation
-- UX/UI Testing
+- тестирование систем монетизации
+- тестирование игровых событий
+- тестирование систем прогрессии
+- проверка систем наград
+- проверка игрового баланса
+- тестирование UX/UI
 
 ---
 
-## Analytics & System Validation
+## Проверка аналитики и систем
 
-- Analytics Validation
-- Event Tracking Verification
-- Data Consistency Checks
-- Progression Analytics Validation
+- проверка аналитики
+- проверка отслеживания событий
+- проверка корректности данных
+- проверка аналитики прогрессии
 
 ---
 
-## QA Documentation
+## QA-документация
 
-Experience creating:
+Опыт создания:
 
-- Test Strategies
-- Test Plans
-- Test Cases
-- Bug Reports
+- стратегий тестирования
+- тест-планов
+- тест-кейсов
+- баг-репортов
 - Case Studies
-- Exploratory Testing Reports
+- отчётов исследовательского тестирования
 
 ---
 
-# Tools & Technologies
+# Инструменты и технологии
 
-## Practical Experience
+## Практический опыт
 
 - Redmine
 - ADB
 - Android Studio Logs
-- Mobile Testing
-- Analytics Validation
+- мобильное тестирование
+- проверка аналитики
 - Git
 
 ---
 
-# Automation Development
+# Развитие в автоматизации
 
-Currently developing skills in:
+В данный момент изучаю:
 
 - Python
 - Pytest
 - Playwright
 - API Testing
 - SQL
-- CI/CD basics
+- основы CI/CD
 
-Focus areas:
+Основные направления развития:
 
-- automated test development
-- API validation
-- test data generation
-- QA workflow automation
-
----
-
-# Career Goal
-
-My goal is to grow as a QA Automation Engineer with strong product quality ownership.
-
-I am interested in combining:
-
-- technical QA skills
-- automation
-- exploratory testing
-- analytics understanding
-- process improvement
-- product quality strategy
+- создание автоматизированных тестов
+- автоматизация проверки API
+- работа с тестовыми данными
+- автоматизация QA-процессов
 
 ---
 
-# Contact
+# Карьерная цель
+
+Моя цель — развиваться как QA Automation Engineer с сильным пониманием качества продукта.
+
+Мне интересно объединять:
+
+- технические навыки тестирования
+- автоматизацию
+- исследовательский подход
+- понимание продукта
+- работу с аналитикой
+- улучшение процессов
+- участие в развитии стратегии качества продукта
+
+---
+
+# Контакты
 
 LinkedIn: [Yungblyut Yulia](https://www.linkedin.com/in/yulia-yungblyut/)
 
