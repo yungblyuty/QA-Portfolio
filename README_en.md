@@ -1,38 +1,41 @@
-# QA-Portfolio
+# QA Portfolio
 
-Hi! I'm a Mobile Game QA Engineer with experience in:
+Hi! I am a Mobile Game QA Engineer focused on product quality, risk analysis, and improving testing processes.
+
+My experience includes:
+
 - exploratory testing
+- risk-based testing
+- mobile game testing
 - monetization systems testing
-- progression and balance validation
+- live event validation
+- progression and game balance testing
 - analytics validation
 - release risk analysis
-- mobile game testing
-- risk-based testing
+- QA process improvement
 
-Currently transitioning into QA Automation Engineering.
+Currently growing towards QA Automation Engineering.
 
 ---
 
 # About This Portfolio
 
-This repository contains examples of my QA work focused on:
-- product-oriented testing
-- production risk investigation
-- exploratory testing
-- live-event systems
-- monetization systems
-- progression mechanics
-- analytics validation
-- release quality assessment
+This repository contains examples of my QA work focused on mobile game systems and product quality.
 
-The portfolio demonstrates my approach to:
-- risk analysis
-- testing strategy
-- test design
-- exploratory testing
-- bug investigation
-- analytics validation
-- process improvement
+The main goal of this portfolio is to demonstrate my approach to:
+
+- understanding feature requirements
+- identifying product and technical risks
+- creating testing strategies
+- designing effective test coverage
+- investigating complex issues
+- validating analytics reliability
+- evaluating impact on users and product
+- improving QA processes
+
+The documentation is organized around complete QA Case Studies rather than separate testing artifacts.
+
+Each Case Study represents a full testing workflow from analysis to final quality assessment.
 
 ---
 
@@ -40,166 +43,244 @@ The portfolio demonstrates my approach to:
 
 ## Case Studies
 
-Production-style QA investigations for mobile game systems.
+End-to-end QA investigations of mobile game systems.
 
-### Included:
+Each Case Study includes:
+
 - Feature Overview
 - Testing Objectives
 - Risk Analysis
 - Testing Strategy
-- Test Design
+- Test Design Approach
+- Exploratory Testing
+- Analytics Validation (where applicable)
 - Critical Issues Identified
-- Cross-Functional Collaboration
-- Result & Impact
+- Cross-Team Collaboration
+- Results & Impact
 
-### Current Case Studies:
-- In-Game Store & Monetization Systems
-- Live Event & Progression Systems
+Related QA documentation is included inside each Case Study:
+
+- Test Plan
+- Test Cases
+- Bug Reports
+- Exploratory Testing Report
+- Analytics Validation Report (where applicable)
+
+Test Plans, Test Cases, and Bug Reports are provided as Excel documents linked to their corresponding Case Study.
 
 ---
 
-## Exploratory Testing
+# Included Case Studies
 
-Examples of risk-based exploratory testing sessions.
+## In-Game Store & Monetization Systems
 
-### Focus Areas:
-- monetization systems
-- progression exploits
-- event systems
-- analytics validation
-- UX risks
+Testing of an in-game store, purchase flows, and monetization-related systems.
+
+Testing focus:
+
+- purchase flow stability
+- reward delivery validation
+- offer logic verification
+- monetization user experience
 - edge-case scenarios
+- analytics reliability
+- release risks
+
+Main goals:
+
+- prevent monetization blockers
+- protect player experience
+- ensure correct reward delivery
+- reduce production risks
+
+Documentation includes:
+
+- Case Study
+- Test Plan
+- Test Cases
+- Bug Reports
+- Exploratory Testing Report
 
 ---
 
-## Bug Reports
+## Live Event & Progression Systems
 
-Collection of production-level bug reports focused on:
-- monetization blockers
-- progression exploits
-- analytics inconsistencies
-- UI/UX conflicts
-- reward duplication issues
-- live-event system defects
+Testing of a limited-time resource collection event and progression systems.
 
-Bug reports are documented using a structured production-oriented format including:
+Testing focus:
 
-- Environment
-- Device / OS information
-- Game Version
-- Reproduction Steps
-- Test Data
-- Expected / Actual Results
-- Reproduction Rate
-- Impact on Player
-- Severity & Priority
-- Severity/Priority Justification
-- Suggested Fix
-- Attachments
+- event mechanics validation
+- progression flow
+- reward systems
+- balance validation
+- replay scenarios
+- analytics tracking
+- edge-case behavior
 
-The reports emphasize:
-- business impact
-- player experience risks
-- release criticality
-- production stability
-- monetization and progression risks
+Main goals:
+
+- ensure stable event experience
+- prevent progression exploits
+- validate reward economy
+- ensure analytics accuracy
+
+Documentation includes:
+
+- Case Study
+- Test Plan
+- Test Cases
+- Bug Reports
+- Exploratory Testing Report
+- Analytics Validation Report
 
 ---
 
-## Analytics Validation
+# Exploratory Testing Approach
 
-Examples of analytics testing and validation including:
-- event tracking validation
-- payload verification
-- duplicate event investigation
-- progression analytics validation
-- funnel consistency checks
-
----
-
-## Process Improvement
-
-Documentation of QA workflow optimization and process improvement initiatives.
+Exploratory testing is included as part of Case Studies.
 
 Focus areas:
-- real-time QA/development collaboration
-- feedback loop optimization
-- release quality improvement
-- multi-project QA workflow organization
+
+- unknown risk discovery
+- complex user scenarios
+- boundary conditions
+- system interactions
+- unexpected user behavior
+- hidden product risks
+
+The goal is not only to find defects, but also to identify potential impact on:
+
+- user experience
+- monetization
+- progression balance
+- release quality
 
 ---
 
-# Core QA Skills
+# Analytics Validation
+
+Analytics validation examples demonstrate testing of:
+
+- event tracking correctness
+- payload validation
+- missing events
+- duplicated events
+- event sequence consistency
+- progression analytics accuracy
+
+The purpose is to ensure reliable product data for decision-making.
+
+---
+
+# Process Improvement
+
+This section demonstrates QA process improvement initiatives.
+
+Focus areas:
+
+- improving collaboration between QA and development teams
+- optimizing feedback loops
+- improving defect validation process
+- supporting faster issue resolution
+- improving release preparation workflow
+
+---
+
+# Key QA Skills
 
 ## Product & Risk-Oriented Testing
+
 - Risk-Based Testing
 - Exploratory Testing
 - Release Risk Assessment
-- Production Risk Investigation
+- Product Risk Analysis
+- Quality Impact Evaluation
+
+---
 
 ## Mobile Game QA
+
 - Monetization Testing
+- Live Event Testing
 - Progression Testing
-- Live Event Validation
 - Reward Systems Testing
+- Economy Balance Validation
 - UX/UI Testing
 
-## Analytics & Systems Validation
+---
+
+## Analytics & System Validation
+
 - Analytics Validation
 - Event Tracking Verification
-- Progression Analytics
-- Funnel Validation
+- Data Consistency Checks
+- Progression Analytics Validation
+
+---
 
 ## QA Documentation
+
+Experience creating:
+
+- Test Strategies
 - Test Plans
 - Test Cases
-- Exploratory Testing Sessions
-- Case Studies
 - Bug Reports
+- Case Studies
+- Exploratory Testing Reports
 
 ---
 
 # Tools & Technologies
 
-## Current Skills
+## Practical Experience
+
 - Redmine
 - ADB
 - Android Studio Logs
 - Mobile Testing
 - Analytics Validation
+- Git
 
-## Currently Learning
+---
+
+# Automation Development
+
+Currently developing skills in:
+
 - Python
-- API Testing
 - Pytest
 - Playwright
-- Git
+- API Testing
+- SQL
 - CI/CD basics
+
+Focus areas:
+
+- automated test development
+- API validation
+- test data generation
+- QA workflow automation
 
 ---
 
 # Career Goal
 
-My long-term goal is to grow not only as a QA Automation Engineer, but also as a product-oriented QA professional capable of:
+My goal is to grow as a QA Automation Engineer with strong product quality ownership.
 
-- improving QA workflows and testing processes
-- influencing product quality decisions
-- reducing production risks
-- improving release stability
-- optimizing cross-functional collaboration
-- contributing to product quality strategy
+I am interested in combining:
 
-I am particularly interested in combining:
 - technical QA skills
 - automation
 - exploratory testing
-- analytics validation
+- analytics understanding
 - process improvement
-- product quality ownership
+- product quality strategy
 
 ---
 
 # Contact
 
-- LinkedIn: [Yungblyut Yulia](https://www.linkedin.com/in/yulia-yungblyut/)
-- Location: Bulgaria
+LinkedIn: [Yungblyut Yulia](https://www.linkedin.com/in/yulia-yungblyut/)
+
+Location: Bulgaria
