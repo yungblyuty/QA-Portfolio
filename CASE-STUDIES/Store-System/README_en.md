@@ -52,19 +52,19 @@ Focus was placed on high-impact scenarios affecting:
 
 This Case Study includes:
 
-📄 **Case Study**  
+📄 [**Case Study**](https://github.com/yungblyuty/QA-Portfolio/blob/main/CASE-STUDIES/Store-System/Store_Case_Study_en.md)  
 Complete feature analysis, testing strategy, risks, identified issues, and results.
 
-📋 **Test Plan**  
+📋 [**Test Plan**](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=945417199#gid=945417199&range=A5:K5)  
 Testing scope, objectives, environment, entry/exit criteria, and risks.
 
-✅ **Test Cases**  
+✅ [**Test Cases**](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=1694348965#gid=1694348965&range=A19:M26)  
 Detailed coverage of functional scenarios, negative scenarios, and edge cases.
 
-🐞 **Bug Reports**  
+🐞 [**Bug Reports**](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=0#gid=0&range=A12:T20)  
 Production-style defect documentation with severity, priority, impact analysis, and reproduction steps.
 
-🔍 **Exploratory Testing Report**  
+🔍 [**Exploratory Testing Report**](https://github.com/yungblyuty/QA-Portfolio/blob/main/Exploratory-Testing/Store_Exploratory_Testing_Session/EN.md)  
 Risk-based investigation of complex scenarios.
 
 ---
