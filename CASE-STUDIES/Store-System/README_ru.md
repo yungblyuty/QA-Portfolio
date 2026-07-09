@@ -52,23 +52,23 @@
 
 В данный Case Study входят:
 
-📄 **Case Study**
+📄 [**Case Study**](https://github.com/yungblyuty/QA-Portfolio/blob/main/CASE-STUDIES/Store-System/Store_Case_Study_ru.md)
 
 Анализ функциональности, стратегия тестирования, риски, найденные проблемы и результат.
 
-📋 **Тест-план**
+📋 [**Тест-план**](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=945417199#gid=945417199&range=A5:K5)
 
 Область тестирования, цели, окружение, критерии начала и завершения тестирования.
 
-✅ **Тест-кейсы**
+✅ [**Тест-кейсы**](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=1694348965#gid=1694348965&range=A19:M26)
 
 Покрытие основных сценариев, негативных проверок и нестандартных случаев.
 
-🐞 **Баг-репорты**
+🐞 [**Баг-репорты**](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=0#gid=0&range=A12:T20)
 
 Описание найденных проблем с приоритетом, серьёзностью и влиянием на продукт.
 
-🔍 **Отчёт исследовательского тестирования**
+🔍 [**Отчёт исследовательского тестирования**](https://github.com/yungblyuty/QA-Portfolio/blob/main/Exploratory-Testing/Store_Exploratory_Testing_Session/RU.md)
 
 Анализ нестандартных сценариев и потенциальных рисков.
 
