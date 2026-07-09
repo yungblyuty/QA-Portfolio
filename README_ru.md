@@ -113,7 +113,7 @@
 
 ---
 
-## [Live Event & Progression Systems](https://github.com/yungblyuty/QA-Portfolio/blob/main/CASE-STUDIES/Live-Event-System/Live_Event_Case_Study_ru.md)
+## [Live Event & Progression Systems](https://github.com/yungblyuty/QA-Portfolio/blob/main/CASE-STUDIES/Live-Event-System/README_ru.md)
 
 Тестирование ограниченного по времени игрового события и систем прогрессии.
 
