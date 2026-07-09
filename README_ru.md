@@ -82,7 +82,7 @@
 
 ---
 
-## In-Game Store & Monetization Systems
+## [In-Game Store & Monetization Systems](https://github.com/yungblyuty/QA-Portfolio/blob/main/CASE-STUDIES/Store-System/Store_Case_Study_en.md)
 
 Тестирование внутриигрового магазина, процесса покупок и систем монетизации.
 
@@ -113,7 +113,7 @@
 
 ---
 
-## Live Event & Progression Systems
+## [Live Event & Progression Systems](https://github.com/yungblyuty/QA-Portfolio/blob/main/CASE-STUDIES/Live-Event-System/Live_Event_Case_Study_en.md)
 
 Тестирование ограниченного по времени игрового события и систем прогрессии.
 
