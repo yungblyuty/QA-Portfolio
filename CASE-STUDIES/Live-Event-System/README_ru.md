@@ -52,27 +52,27 @@
 
 В данный Case Study входят:
 
-📄 **Case Study**
+📄 [**Case Study**](https://github.com/yungblyuty/QA-Portfolio/blob/main/CASE-STUDIES/Live-Event-System/Live_Event_Case_Study_ru.md)
 
 Полный анализ функциональности, рисков, стратегии тестирования и результатов.
 
-📋 **Тест-план**
+📋 [**Тест-план**](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=945417199#gid=945417199&range=A6:K6)
 
 Цели, область тестирования, риски, окружение и критерии завершения.
 
-✅ **Тест-кейсы**
+✅ [**Тест-кейсы**](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=1694348965#gid=1694348965&range=A28:M37)
 
 Покрытие сценариев прогрессии, наград, событий и нестандартных случаев.
 
-🐞 **Баг-репорты**
+🐞 [**Баг-репорты**](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=0#gid=0&range=A19:T26)
 
 Описание найденных проблем с шагами воспроизведения, влиянием и приоритетом.
 
-🔍 **Отчёт исследовательского тестирования**
+🔍 [**Отчёт исследовательского тестирования**](https://github.com/yungblyuty/QA-Portfolio/blob/main/Exploratory-Testing/Live_Event_Exploratory_Testing_Session/RU.md)
 
 Исследование скрытых рисков и нестандартных сценариев.
 
-📊 **Проверка аналитики**
+📊 [**Проверка аналитики**](https://github.com/yungblyuty/QA-Portfolio/blob/main/Analytics-Validation/RU.md)
 
 Проверка событий аналитики, прогрессии и корректности данных.
 
