@@ -44,3 +44,11 @@ def test_event_sequence():
     ]
 
     assert is_correct_sequence(events, expected_sequence)
+
+
+def test_detect_duplicate_reward_bug():
+    events = load_events(
+        "data/duplicate_reward_events.json"
+    )
+
+    assert has_duplicate_events(events) is True
