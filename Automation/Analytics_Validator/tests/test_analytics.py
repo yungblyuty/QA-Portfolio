@@ -52,3 +52,21 @@ def test_detect_duplicate_reward_bug():
     )
 
     assert has_duplicate_events(events) is True
+
+
+def test_detect_missing_progression_event():
+    events = load_events(
+        "data/missing_progression_event.json"
+    )
+
+    required_events = [
+        "event_started",
+        "milestone_completed",
+        "reward_claimed",
+        "event_completed"
+    ]
+
+    assert has_required_events(
+        events,
+        required_events
+    ) is False
