@@ -97,6 +97,49 @@ Incorrect event sequences are detected automatically.
 
 ---
 
+# Test Coverage
+
+| Test ID | Test Name | Validation Area |
+|---|---|---|
+| AUTO-001 | Required Events Validation | Checks that all required analytics events are received |
+| AUTO-002 | Duplicate Events Detection | Detects duplicated analytics events |
+| AUTO-003 | Event Sequence Validation | Validates correct analytics event order |
+| AUTO-004 | Duplicate Reward Bug Detection | Detects duplicated reward claim events |
+| AUTO-005 | Missing Progression Event Detection | Detects missing progression tracking events |
+
+---
+
+# Bugs Covered By Automation
+
+## Duplicate Reward Events
+
+Manual testing risk:
+
+Reward events could be sent multiple times during specific completion scenarios.
+
+Automated validation:
+
+- detects duplicated reward events
+- prevents incorrect reward analytics
+- protects analytics funnels
+
+
+---
+
+## Incomplete Progression Tracking
+
+Manual testing risk:
+
+Progression analytics could miss intermediate progression states.
+
+Automated validation:
+
+- verifies required progression events
+- detects missing analytics data
+- improves reliability of progression tracking
+
+```
+
 # Project Structure
 
 ```
