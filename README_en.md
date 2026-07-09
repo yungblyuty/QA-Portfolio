@@ -79,7 +79,7 @@ Test Plans, Test Cases, and Bug Reports are provided as Excel documents linked t
 
 # Included Case Studies
 
-## In-Game Store & Monetization Systems
+## [In-Game Store & Monetization Systems](https://github.com/yungblyuty/QA-Portfolio/blob/main/CASE-STUDIES/Store-System/README_en.md)
 
 Testing of an in-game store, purchase flows, and monetization-related systems.
 
@@ -110,7 +110,7 @@ Documentation includes:
 
 ---
 
-## Live Event & Progression Systems
+## [Live Event & Progression Systems](https://github.com/yungblyuty/QA-Portfolio/blob/main/CASE-STUDIES/Live-Event-System/README_en.md)
 
 Testing of a limited-time resource collection event and progression systems.
 
