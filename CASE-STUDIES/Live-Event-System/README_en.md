@@ -52,27 +52,27 @@ Special attention was given to:
 
 This Case Study includes:
 
-📄 **Case Study**
+📄 [**Case Study**](https://github.com/yungblyuty/QA-Portfolio/blob/main/CASE-STUDIES/Live-Event-System/Live_Event_Case_Study_en.md)
 
 Full analysis of the feature, risks, testing approach, findings, and impact.
 
-📋 **Test Plan**
+📋 [**Test Plan**](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=945417199#gid=945417199&range=A6:K6)
 
 Testing objectives, scope, risks, environment, and completion criteria.
 
-✅ **Test Cases**
+✅ [**Test Cases**](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=1694348965#gid=1694348965&range=A28:M37)
 
 Detailed coverage of progression, rewards, events, and edge scenarios.
 
-🐞 **Bug Reports**
+🐞 [**Bug Reports**](https://docs.google.com/spreadsheets/d/10MAkEVS5qUhmlEqaCDZF8TK_DDyotVlVMqlT7zZ4H1M/edit?gid=0#gid=0&range=A19:T26)
 
 Documented issues with reproduction steps, impact analysis, severity, and priority.
 
-🔍 **Exploratory Testing Report**
+🔍 [**Exploratory Testing Report**](https://github.com/yungblyuty/QA-Portfolio/blob/main/Exploratory-Testing/Live_Event_Exploratory_Testing_Session/EN.md)
 
 Risk-based investigation of hidden scenarios.
 
-📊 **Analytics Validation Report**
+📊 [**Analytics Validation Report**](https://github.com/yungblyuty/QA-Portfolio/blob/main/Analytics-Validation/EN.md)
 
 Validation of event tracking, progression analytics, and data correctness.
 
