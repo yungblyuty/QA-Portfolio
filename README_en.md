@@ -37,6 +37,13 @@ The documentation is organized around complete QA Case Studies rather than separ
 
 Each Case Study represents a full testing workflow from analysis to final quality assessment.
 
+
+### Disclaimer
+
+All examples in this portfolio are anonymized and created for demonstration purposes.
+No confidential company data, internal tools, proprietary information, or production materials are included.
+
+
 ---
 
 # Portfolio Structure
@@ -228,12 +235,6 @@ Experience creating:
 - Bug Reports
 - Case Studies
 - Exploratory Testing Reports
-
-
-### Disclaimer
-
-All examples in this portfolio are anonymized and created for demonstration purposes.
-No confidential company data, internal tools, proprietary information, or production materials are included.
 
 ---
 
