@@ -2,19 +2,17 @@
 
 This section contains my QA Automation learning projects.
 
-Current focus:
+Focus areas:
 
 - Python
 - Pytest
-- API Testing
 - Playwright
+- API Testing
 - SQL
-- CI/CD basics
+- Test Data Automation
 
+Planned projects:
 
-Planned automation examples:
-
-- API test automation
-- test data validation
-- analytics validation scripts
-- automated QA tools
+- Analytics Validator
+- API Test Automation
+- Test Data Generator
