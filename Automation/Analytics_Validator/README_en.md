@@ -184,6 +184,15 @@ pytest
 
 ---
 
+
+# Test Execution Result
+
+Example of successful automated test execution:
+
+![Pytest Result](C:\Users\Work\Documents\Projects\QA-Portfolio\Automation\Analytics_Validator\screenshots\pytest_result.jpg)
+
+---
+
 # Connection With Manual QA Experience
 
 This automation project is based on real QA scenarios:
