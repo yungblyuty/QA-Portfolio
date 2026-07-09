@@ -39,9 +39,7 @@ Each Case Study represents a full testing workflow from analysis to final qualit
 
 
 #### Disclaimer
-
 All examples in this portfolio are anonymized and created for demonstration purposes.
-
 No confidential company data, internal tools, proprietary information, or production materials are included.
 
 
