@@ -230,7 +230,7 @@ Experience creating:
 - Exploratory Testing Reports
 
 
-# Disclaimer
+### Disclaimer
 
 All examples in this portfolio are anonymized and created for demonstration purposes.
 No confidential company data, internal tools, proprietary information, or production materials are included.
