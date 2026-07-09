@@ -253,7 +253,18 @@ Experience creating:
 
 # Automation Development
 
-Currently developing skills in:
+I am currently growing towards QA Automation Engineering and applying automation to solve practical QA problems.
+
+My main focus areas:
+
+- automating repetitive validation processes
+- developing automated tests
+- API testing
+- working with test data
+- analytics validation automation
+- improving QA efficiency through automation
+
+Technologies:
 
 - Python
 - Pytest
@@ -262,12 +273,83 @@ Currently developing skills in:
 - SQL
 - CI/CD basics
 
-Focus areas:
+---
 
-- automated test development
-- API validation
-- test data generation
-- QA workflow automation
+# Automation Projects
+
+## Game Analytics Validator
+
+Python-based QA Automation project focused on validating mobile game analytics events.
+
+The project is based on real QA scenarios related to:
+
+- live event systems
+- progression mechanics
+- reward systems
+- player action tracking
+
+The goal of this project is to demonstrate the transition from manual analytics validation to automated quality checks.
+
+---
+
+# Automation Coverage
+
+The project includes automated validation for:
+
+| Validation Area | Purpose |
+|---|---|
+| Required Events Validation | Ensures that all mandatory analytics events are received |
+| Duplicate Events Detection | Detects duplicated analytics events |
+| Event Sequence Validation | Validates correct user flow and event order |
+| Duplicate Reward Detection | Prevents incorrect reward tracking and analytics corruption |
+| Progression Tracking Validation | Detects missing progression-related events |
+
+---
+
+# Connection With Manual QA Experience
+
+This automation project extends scenarios discovered during manual and exploratory testing.
+
+The goal is to convert real product risks into automated checks.
+
+---
+
+## Duplicate Reward Events
+
+Manual testing risk:
+
+Under specific scenarios, reward completion events could be triggered multiple times.
+
+Automated validation:
+
+- detects duplicated reward events
+- prevents incorrect analytics metrics
+- protects event funnels reliability
+
+---
+
+## Incomplete Progression Tracking
+
+Manual testing risk:
+
+During complex progression scenarios, some intermediate analytics events could be missing.
+
+Automated validation:
+
+- verifies required progression events
+- detects missing analytics data
+- improves reliability of progression tracking
+
+---
+
+# Technology Stack
+
+- Python
+- Pytest
+- JSON
+- Git
+
+[Open Project](https://github.com/yungblyuty/QA-Portfolio/blob/main/Automation/Analytics_Validator/README_en.md)
 
 ---
 
