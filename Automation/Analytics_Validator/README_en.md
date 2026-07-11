@@ -189,7 +189,7 @@ pytest
 
 Example of successful automated test execution:
 
-![Pytest Result](C:\Users\Work\Documents\Projects\QA-Portfolio\Automation\Analytics_Validator\screenshots\pytest_result.jpg)
+![Pytest Result](https://github.com/yungblyuty/QA-Portfolio/blob/main/Automation/Analytics_Validator/screenshots/pytest_result.jpg)
 
 ---
 
